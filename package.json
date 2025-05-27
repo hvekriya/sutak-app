@@ -1,0 +1,15 @@
+{
+  "name": "sutak-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "nuxt": "^2.16.0"
+  }
+}
